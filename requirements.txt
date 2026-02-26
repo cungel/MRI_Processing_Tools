@@ -1,0 +1,5 @@
+pydicom
+numpy
+nibabel
+scipy
+

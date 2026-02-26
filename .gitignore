@@ -1,0 +1,15 @@
+# DICOM and NIfTI files
+*.dcm
+*.DCM
+*.ima
+*.IMA
+*.nii
+*.nii.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
